@@ -1,0 +1,298 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "ND0 filter",
+	"icon": "https://micro.blog/Jrand0m/avatar.jpg",
+	"home_page_url": "https://blog.nd0.me/",
+	"feed_url": "https://blog.nd0.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jrand0m.micro.blog/2026/01/04/tinkering-with-talos-linux-im.html",
+				
+				"content_html": "<p>Tinkering with talos linux. Im very open to the idea of immutable linux for your containers. Attack surface -&gt; 0.\nTip: if you dont know the list of parameters try:   <code>talosctl whateveryouarelookingat  -o yaml</code> output</p>\n",
+				"content_text": "Tinkering with talos linux. Im very open to the idea of immutable linux for your containers. Attack surface -> 0.\nTip: if you dont know the list of parameters try:   `talosctl whateveryouarelookingat  -o yaml` output\n",
+				"date_published": "2026-01-04T12:22:38-03:00",
+				"url": "https://blog.nd0.me/2026/01/04/tinkering-with-talos-linux-im.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/28/relationships-are-medium-for-transactions.html",
+				
+				"content_html": "<p>Relationships are medium for transactions.\nPeople, like it or not, play this game and get carried away by internal fantasies. Unfortunately.</p>\n",
+				"content_text": "Relationships are medium for transactions. \nPeople, like it or not, play this game and get carried away by internal fantasies. Unfortunately. \n",
+				"date_published": "2025-12-28T17:18:45-03:00",
+				"url": "https://blog.nd0.me/2025/12/28/relationships-are-medium-for-transactions.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/27/the-best-way-around-the.html",
+				
+				"content_html": "<p>The best way around the wandering context of ai agents is having developing proper documentation BEFORE you start to implement. 😂</p>\n",
+				"content_text": "The best way around the wandering context of ai agents is having developing proper documentation BEFORE you start to implement. 😂\n",
+				"date_published": "2025-12-27T18:26:04-03:00",
+				"url": "https://blog.nd0.me/2025/12/27/the-best-way-around-the.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/27/quick-tip-for-tab-hoarders.html",
+				
+				"content_html": "<p>Quick tip for tab hoarders:</p>\n<ul>\n<li>Use &lsquo;tree style tab&rsquo; plugs.</li>\n<li>Bookmark your valuables.</li>\n<li>Close browser once a day.\nCan recommend plugins 4 each.</li>\n</ul>\n",
+				"content_text": "Quick tip for tab hoarders: \n- Use 'tree style tab' plugs. \n- Bookmark your valuables.\n- Close browser once a day. \nCan recommend plugins 4 each. \n",
+				"date_published": "2025-12-27T16:54:18-03:00",
+				"url": "https://blog.nd0.me/2025/12/27/quick-tip-for-tab-hoarders.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/27/reading-the-threads-i-stumble.html",
+				
+				"content_html": "<p>Reading the threads I stumble quite often to messages from people having 20+ tabs open in the browser.\nI wonder why do you do that ?</p>\n",
+				"content_text": "Reading the threads I stumble quite often to messages from people having 20+ tabs open in the browser. \nI wonder why do you do that ? \n",
+				"date_published": "2025-12-27T16:49:36-03:00",
+				"url": "https://blog.nd0.me/2025/12/27/reading-the-threads-i-stumble.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/18/havent-used-social-media-for.html",
+				
+				"content_html": "<p>Havent used social media for quite while and what i can say:</p>\n<ul>\n<li>when algorithm doesnt know your taste(oh yeah, im that offline sob 🌚) throws on you such silly recommendations</li>\n<li>I can feel like worrines is growing as i scroll. Looking from side on those bait topics one understands-people are animals driven by the basic calls.</li>\n<li>I quit smoking(hard battle) and it feels very much alike smelling cig after quite long time: yeah, it was fun, but now just &hellip; stinks?</li>\n</ul>\n",
+				"content_text": "Havent used social media for quite while and what i can say:\n- when algorithm doesnt know your taste(oh yeah, im that offline sob 🌚) throws on you such silly recommendations \n- I can feel like worrines is growing as i scroll. Looking from side on those bait topics one understands-people are animals driven by the basic calls.\n- I quit smoking(hard battle) and it feels very much alike smelling cig after quite long time: yeah, it was fun, but now just ... stinks?\n",
+				"date_published": "2025-12-18T11:53:06-03:00",
+				"url": "https://blog.nd0.me/2025/12/18/havent-used-social-media-for.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/17/how-to-solve-any-problem.html",
+				
+				"content_html": "<p>How to solve any problem in linux ?\nDon&rsquo;t use bleeding edge.</p>\n",
+				"content_text": "How to solve any problem in linux ? \nDon't use bleeding edge.\n",
+				"date_published": "2025-12-17T11:48:01-03:00",
+				"url": "https://blog.nd0.me/2025/12/17/how-to-solve-any-problem.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/12/05/not-everyones-users-topic-but.html",
+				
+				"content_html": "<p>Not everyone&rsquo;s users topic, but terminal emulators on mac os.\nI cannot even imagine what can be more power-user friendly than iTerm2.\nI have tried a bunch and I can definitely tell they all fall short. Especially seeing the &ldquo;fastest terminal on the planet&rdquo; and underneath it is v8/js. Cmon, u serious ? and why the f u need fastest terminal anyway ?</p>\n",
+				"content_text": "Not everyone's users topic, but terminal emulators on mac os. \nI cannot even imagine what can be more power-user friendly than iTerm2. \nI have tried a bunch and I can definitely tell they all fall short. Especially seeing the \"fastest terminal on the planet\" and underneath it is v8/js. Cmon, u serious ? and why the f u need fastest terminal anyway ?  \n",
+				"date_published": "2025-12-05T01:45:32-03:00",
+				"url": "https://blog.nd0.me/2025/12/05/not-everyones-users-topic-but.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/22/it-appears-to-me-that.html",
+				
+				"content_html": "<p>It appears to me that AI honeymoon is over and all the crap starts to show up to al the people.\nNow the “GPT 5.666 is not that smart as 3.333” and all that stuff. As it does in any relationship with time 😁</p>\n",
+				"content_text": "It appears to me that AI honeymoon is over and all the crap starts to show up to al the people. \nNow the “GPT 5.666 is not that smart as 3.333” and all that stuff. As it does in any relationship with time 😁\n",
+				"date_published": "2025-11-22T01:00:57-03:00",
+				"url": "https://blog.nd0.me/2025/11/22/it-appears-to-me-that.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/21/how-paranoid-are-you-my.html",
+				
+				"content_html": "<p>How paranoid are you?\nmy typical avg friends:</p>\n<ul>\n<li><em>ah I’ll use my usual password, leaked in the wwwilds in 2007</em>\nMe :</li>\n<li>Maybe Im doing homebanking, how would you know, stupid machine? 👺</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "How paranoid are you? \nmy typical avg friends:\n- *ah I’ll use my usual password, leaked in the wwwilds in 2007*\nMe : \n- Maybe Im doing homebanking, how would you know, stupid machine? 👺\n\n<img src=\"https://cdn.uploads.micro.blog/209053/2025/image.png\" width=\"600\" height=\"115\" alt=\"\">\n",
+				"date_published": "2025-11-21T23:35:07-03:00",
+				"url": "https://blog.nd0.me/2025/11/21/how-paranoid-are-you-my.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/21/i-will-bring-unpopular-thought.html",
+				
+				"content_html": "<p>I will bring unpopular thought, but all hailed vibecoding generaly is 3 times slower than direct oldscool approach on real size projects.</p>\n",
+				"content_text": "I will bring unpopular thought, but all hailed vibecoding generaly is 3 times slower than direct oldscool approach on real size projects. \n",
+				"date_published": "2025-11-21T19:22:09-03:00",
+				"url": "https://blog.nd0.me/2025/11/21/i-will-bring-unpopular-thought.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/21/joining-new-project-as-an.html",
+				
+				"content_html": "<p>Joining new project, as an engineering manager, is literally like this 🌚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Joining new project, as an engineering manager, is literally like this 🌚\n\n<img src=\"https://cdn.uploads.micro.blog/209053/2025/df0.jpg\" width=\"573\" height=\"319\" alt=\"\">\n",
+				"date_published": "2025-11-21T17:38:19-03:00",
+				"url": "https://blog.nd0.me/2025/11/21/joining-new-project-as-an.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/21/i-did-miss-this-view.html",
+				
+				"content_html": "<p>I did miss this view</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I did miss this view\n\n<img src=\"https://cdn.uploads.micro.blog/209053/2025/0480f04f3a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-21T16:09:16-03:00",
+				"url": "https://blog.nd0.me/2025/11/21/i-did-miss-this-view.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/20/after-half-of-the-week.html",
+				
+				"content_html": "<p>After half of the week fighting with trying to push the router to be a control plane for k3s - I gave up. 🌚\nNext stop: git ops via agroCD and two cluster solution(ykwim)</p>\n",
+				"content_text": "After half of the week fighting with trying to push the router to be a control plane for k3s - I gave up. 🌚\nNext stop: git ops via agroCD and two cluster solution(ykwim)\n",
+				"date_published": "2025-11-20T22:23:57-03:00",
+				"url": "https://blog.nd0.me/2025/11/20/after-half-of-the-week.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/15/calm-warm-weather-weekend-golden.html",
+				
+				"content_html": "<p>Calm warm weather weekend golden hour moments - priceless,</p>\n<p>for everything else there is a MC 😁</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Calm warm weather weekend golden hour moments - priceless, \n\nfor everything else there is a MC 😁\n\n<img src=\"https://cdn.uploads.micro.blog/209053/2025/7f53043044.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-15T21:22:08-03:00",
+				"url": "https://blog.nd0.me/2025/11/15/calm-warm-weather-weekend-golden.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/07/that-day-happened-today-i.html",
+				
+				"content_html": "<p>That day happened.\nToday I have deleted all my photos from iCloud.\n68000 photos and 6200 videos(1.8TB) are moved from Apple to my personal storage.</p>\n",
+				"content_text": "That day happened. \nToday I have deleted all my photos from iCloud. \n68000 photos and 6200 videos(1.8TB) are moved from Apple to my personal storage.\n",
+				"date_published": "2025-11-07T01:17:21-03:00",
+				"url": "https://blog.nd0.me/2025/11/07/that-day-happened-today-i.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/04/i-have-a-quite-sensitive.html",
+				
+				"content_html": "<p>I have a quite sensitive sleep. Simple not closed curtain - and I wake up with sun rise. Given my multi-TZ lifestyle, that could get pretty wicked.</p>\n",
+				"content_text": "I have a quite sensitive sleep. Simple not closed curtain - and I wake up with sun rise. Given my multi-TZ lifestyle, that could get pretty wicked.\n",
+				"date_published": "2025-11-04T16:04:57-03:00",
+				"url": "https://blog.nd0.me/2025/11/04/i-have-a-quite-sensitive.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/03/less-than-one-percent-of.html",
+				
+				"content_html": "<p>Less than one percent of the projects in your life will end in success.\nThere is no other way around.\nOn the good side: you can choose which projects you start.</p>\n",
+				"content_text": "Less than one percent of the projects in your life will end in success. \nThere is no other way around. \nOn the good side: you can choose which projects you start. \n",
+				"date_published": "2025-11-03T18:48:55-03:00",
+				"url": "https://blog.nd0.me/2025/11/03/less-than-one-percent-of.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/11/01/in-most-of-the-unpleasant.html",
+				
+				"content_html": "<p>In most of the unpleasant situations in life everything boils down to three choices.</p>\n<ul>\n<li>Live with it;</li>\n<li>Leave it;</li>\n<li>Change it.</li>\n</ul>\n",
+				"content_text": "In most of the unpleasant situations in life everything boils down to three choices. \n- Live with it;\n- Leave it;\n- Change it. \n",
+				"date_published": "2025-11-01T21:59:25-03:00",
+				"url": "https://blog.nd0.me/2025/11/01/in-most-of-the-unpleasant.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/10/30/this-happens-to-me-again.html",
+				
+				"content_html": "<p>This happens to me again and again. People tell me that yet another llm &ldquo;thinks differently&rdquo;. Boring.\nAs A. C. Clark famously wrote in (!)1962:</p>\n<blockquote>\n<p>Any sufficiently advanced technology is indistinguishable from magic.\nWhich side are you on: does &ldquo;it think&rdquo;, or simply &ldquo;it produces&rdquo;?</p>\n</blockquote>\n",
+				"content_text": "This happens to me again and again. People tell me that yet another llm \"thinks differently\". Boring. \nAs A. C. Clark famously wrote in (!)1962: \n> Any sufficiently advanced technology is indistinguishable from magic.\nWhich side are you on: does \"it think\", or simply \"it produces\"?\n",
+				"date_published": "2025-10-30T20:00:14-03:00",
+				"url": "https://blog.nd0.me/2025/10/30/this-happens-to-me-again.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/10/23/so-it-appears-to-be.html",
+				
+				"content_html": "<p>So it appears to be that one cannot just take and use the cloudflare tunnels to map to your wireguard. (because cloudflare has its own vpn, right ? ( ͡° ͜ʖ ͡°) ). I found some github notes on what appears to be a way to extract WG key from the CF WARP thing and use it as simple setup. As usual this is deeper than it seems. 1h later, with shaking hands, Im compiling shady rust packages with nix build system 🌚️</p>\n",
+				"content_text": "So it appears to be that one cannot just take and use the cloudflare tunnels to map to your wireguard. (because cloudflare has its own vpn, right ? ( ͡° ͜ʖ ͡°) ). I found some github notes on what appears to be a way to extract WG key from the CF WARP thing and use it as simple setup. As usual this is deeper than it seems. 1h later, with shaking hands, Im compiling shady rust packages with nix build system 🌚️\n",
+				"date_published": "2025-10-23T21:13:16-03:00",
+				"url": "https://blog.nd0.me/2025/10/23/so-it-appears-to-be.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/10/23/so-im-in-need-for.html",
+				
+				"content_html": "<p>So Im in need for vpn access and regular means are not cutting. Saying hello to cloudflare tunnels 🌚</p>\n",
+				"content_text": "So Im in need for vpn access and regular means are not cutting. Saying hello to cloudflare tunnels 🌚\n",
+				"date_published": "2025-10-23T17:36:52-03:00",
+				"url": "https://blog.nd0.me/2025/10/23/so-im-in-need-for.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/10/20/hey-linkedin-did-i-pay.html",
+				
+				"content_html": "<ul>\n<li>Hey, Linked.in, did I pay you for premium ?</li>\n<li>Yes.</li>\n<li>Why the Fxxx I see ads? (눈_눈)</li>\n<li>(._.) | (⚆_⚆)</li>\n</ul>\n",
+				"content_text": "- Hey, Linked.in, did I pay you for premium ? \n- Yes.\n- Why the Fxxx I see ads? (눈_눈)\n- (._.) | (⚆_⚆)\n",
+				"date_published": "2025-10-20T12:33:31-03:00",
+				"url": "https://blog.nd0.me/2025/10/20/hey-linkedin-did-i-pay.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/10/15/typescript-is-new-php-everything.html",
+				
+				"content_html": "<p>TypeScript is new PHP. Everything is electron or web-view. I got tired of this. Tired of feeling that products screw you to use browser app.</p>\n",
+				"content_text": "TypeScript is new PHP. Everything is electron or web-view. I got tired of this. Tired of feeling that products screw you to use browser app. \n",
+				"date_published": "2025-10-15T11:11:06-03:00",
+				"url": "https://blog.nd0.me/2025/10/15/typescript-is-new-php-everything.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/09/28/get-benefits-from-both-platforms.html",
+				
+				"content_html": "<p>Get benefits from both platforms 🌚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Get benefits from both platforms 🌚\n\n<img src=\"https://cdn.uploads.micro.blog/209053/2025/f2bfca937f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-28T14:14:02-03:00",
+				"url": "https://blog.nd0.me/2025/09/28/get-benefits-from-both-platforms.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/09/24/question-everything-but-act-with.html",
+				
+				"content_html": "<p><strong>Question</strong> everything, but act with <em>clarity</em>. The lens you use shapes the world you see. <strong>Systems</strong> matter more than intentions &ndash; test assumptions, embrace feedback loops, and <em>iterate</em> relentlessly. Progress is not about avoiding failure, but about designing <strong>principles</strong> that survive it.</p>\n",
+				"content_text": "**Question** everything, but act with _clarity_. The lens you use shapes the world you see. **Systems** matter more than intentions -- test assumptions, embrace feedback loops, and _iterate_ relentlessly. Progress is not about avoiding failure, but about designing **principles** that survive it.\n",
+				"date_published": "2025-09-24T07:33:20-03:00",
+				"url": "https://blog.nd0.me/2025/09/24/question-everything-but-act-with.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/09/09/testimg-out.html",
+				
+				"content_html": "<p>Testimg out</p>\n",
+				"content_text": "Testimg out \n",
+				"date_published": "2025-09-09T23:09:50-03:00",
+				"url": "https://blog.nd0.me/2025/09/09/testimg-out.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/07/13/hello.html",
+				
+				"content_html": "<p>Hello</p>\n",
+				"content_text": "Hello\n",
+				"date_published": "2025-07-13T20:09:38-03:00",
+				"url": "https://blog.nd0.me/2025/07/13/hello.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/07/10/that-esc-needs-to-be.html",
+				
+				"content_html": "<p>That esc needs to be gone from there.  I’m so used to have space under thumbs, so I oftenly do the esc instead of spacing. Its better to have something more safe there. Like “tab”.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "That esc needs to be gone from there.  I’m so used to have space under thumbs, so I oftenly do the esc instead of spacing. Its better to have something more safe there. Like “tab”. \n\n<img src=\"https://cdn.uploads.micro.blog/209053/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-07-10T18:43:59-03:00",
+				"url": "https://blog.nd0.me/2025/07/10/that-esc-needs-to-be.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/06/01/this-is-my-message-to.html",
+				
+				"content_html": "<p>This is my message to the world</p>\n",
+				"content_text": "This is my message to the world \n",
+				"date_published": "2025-06-01T23:38:19-03:00",
+				"url": "https://blog.nd0.me/2025/06/01/this-is-my-message-to.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/05/21/jexxxx.html",
+				
+				"content_html": "<p>jexxxx</p>\n",
+				"content_text": "jexxxx\n",
+				"date_published": "2025-05-21T23:47:49-03:00",
+				"url": "https://blog.nd0.me/2025/05/21/jexxxx.html",
+				"tags": ["mBlog"]
+			},
+			{
+				"id": "http://jrand0m.micro.blog/2025/05/21/lets-say-this-is-the.html",
+				
+				"content_html": "<p>Lets say this is the first message here</p>\n",
+				"content_text": "Lets say this is the first message here \n",
+				"date_published": "2025-05-21T21:04:40-03:00",
+				"url": "https://blog.nd0.me/2025/05/21/lets-say-this-is-the.html",
+				"tags": ["mBlog"]
+			}
+	]
+}
